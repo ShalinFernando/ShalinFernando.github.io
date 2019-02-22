@@ -1260,10 +1260,29 @@ footer .credits a {
 }
 
 #img{
-  width: 130px;
-  height: 130px;
+  width: 100px;
+  height: 100px;
 }
 #img1{
-  width: 150px;
-  height: 130px;
+  width: 130px;
+  height: 120px;
+}
+#spc{
+  height: 20px;;
+}
+
+#spc1{
+  height: 25px;;
+}
+
+#spc2{
+  height: 120px;;
+}
+
+#card2{
+  height: 400px;
+}
+#ijse{
+  position: relative;
+  top: 30px;
 }
